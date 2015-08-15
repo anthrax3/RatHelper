@@ -1,0 +1,8 @@
+c:\users\yassergersy\documents\visual studio 2013\Projects\RAT Helper\RAT Helper\bin\Debug\RAT Helper.exe
+c:\users\yassergersy\documents\visual studio 2013\Projects\RAT Helper\RAT Helper\bin\Debug\RAT Helper.pdb
+c:\users\yassergersy\documents\visual studio 2013\Projects\RAT Helper\RAT Helper\obj\Debug\RAT Helper.csprojResolveAssemblyReference.cache
+c:\users\yassergersy\documents\visual studio 2013\Projects\RAT Helper\RAT Helper\obj\Debug\RAT_Helper.Form1.resources
+c:\users\yassergersy\documents\visual studio 2013\Projects\RAT Helper\RAT Helper\obj\Debug\RAT_Helper.Properties.Resources.resources
+c:\users\yassergersy\documents\visual studio 2013\Projects\RAT Helper\RAT Helper\obj\Debug\RAT Helper.csproj.GenerateResource.Cache
+c:\users\yassergersy\documents\visual studio 2013\Projects\RAT Helper\RAT Helper\obj\Debug\RAT Helper.exe
+c:\users\yassergersy\documents\visual studio 2013\Projects\RAT Helper\RAT Helper\obj\Debug\RAT Helper.pdb
